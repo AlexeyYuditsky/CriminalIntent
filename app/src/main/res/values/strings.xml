@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Criminal Intent</string>
+    <string name="crime_title_hint">Введите название преступления.</string>
+    <string name="crime_title_label">Заголовок</string>
+    <string name="crime_details_label">Детали</string>
+    <string name="crime_solved_label">Раскрытое преступление</string>
+    <string name="new_crime">Новое преступление</string>
+    <string name="empty_list_crime">Список преступлений пуст</string>
+    <string name="crime_suspect_text">Выбрать подозреваемого</string>
+    <string name="crime_report_text">Отправить отчет о преступлении</string>
+    <string name="call_suspect">Позвонить подозреваемому</string>
+    <string name="snack_bar_permission">Разрешите доступ к контактам</string>
+    <string name="snack_bar_setting_app">Предоставьте разрешения в настройках приложения</string>
+    <string name="snack_bar_setting">Настройки…</string>
+    <string name="snack_bar_allow">Разрешить…</string>
+    <string name="snack_bar_select">Выбрать…</string>
+    <string name="snack_bar_select_suspect">Сначало выберите подозреваемого</string>
+
+    <string name="crime_report">%1$s! Преступление было совершено в %2$s. %3$s, %4$s</string>
+    <string name="crime_report_solved">Преступление раскрыто</string>
+    <string name="crime_report_unsolved">Преступление не раскрыто</string>
+    <string name="crime_report_no_suspect">подозреваемых нет.</string>
+    <string name="crime_report_suspect">подозреваемый %s.</string>
+    <string name="crime_report_subject">CriminalIntent, Отчёт о преступлении</string>
+    <string name="send_report">Поделиться преступлением</string>
+
+    <string name="crime_photo_button_description">Сфотографировать место преступления</string>
+    <string name="crime_photo_no_image_description">Фотография места преступления (не установлена)</string>
+    <string name="crime_photo_image_description">Фотография места преступления</string>
+</resources>

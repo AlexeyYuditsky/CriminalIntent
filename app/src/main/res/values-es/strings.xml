@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intención Criminal</string>
+    <string name="crime_title_hint">Escriba el nombre del crimen.</string>
+    <string name="crime_title_label">Título</string>
+    <string name="crime_details_label">Detalles</string>
+    <string name="crime_solved_label">Crimen resuelto</string>
+    <string name="new_crime">Nuevo crimen</string>
+    <string name="empty_list_crime">Lista de delitos vacía</string>
+    <string name="crime_suspect_text">Seleccionar sospechoso</string>
+    <string name="crime_report_text">Enviar informe del crimen</string>
+    <string name="call_suspect">Llamar al sospechoso</string>
+    <string name="snack_bar_permission">Permitir el acceso a los contactos</string>
+    <string name="snack_bar_setting_app">Conceder permisos en la configuración de la aplicación</string>
+    <string name="snack_bar_setting">Ajustes…</string>
+    <string name="snack_bar_allow">Permitir…</string>
+    <string name="snack_bar_select">Elegir…</string>
+    <string name="snack_bar_select_suspect">Primero seleccione un sospechoso</string>
+
+    <string name="crime_report">%1$s! El crimen fue cometido en %2$s. %3$s, %4$s</string>
+    <string name="crime_report_solved">Crimen resuelto</string>
+    <string name="crime_report_unsolved">Crimen no resuelto</string>
+    <string name="crime_report_no_suspect">no hay sospechosos.</string>
+    <string name="crime_report_suspect">sospechoso %s.</string>
+    <string name="crime_report_subject">Intención Criminal, Informe del crimen</string>
+    <string name="send_report">Compartir crimen</string>
+
+    <string name="crime_photo_button_description">Tomar foto de la escena del crimen</string>
+    <string name="crime_photo_no_image_description">Foto de la escena del crimen (no establecida)</string>
+    <string name="crime_photo_image_description">Foto de la escena del crimen (establecida)</string>
+</resources>
